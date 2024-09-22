@@ -4,7 +4,7 @@
   "height": 600,
   "title": "Road Crash in Australia from 1989 - 2024",
   "data": {
-    "url": "js\\australian-states (1).json",
+    "url": "australian-states (1).json",
     "format": {
       "type": "topojson",
       "feature": "australian-states"
@@ -15,7 +15,7 @@
       "lookup": "properties.STATE_NAME",
       "from": {
         "data": {
-          "url": "data\\count by states.csv"
+          "url": "count by states.csv"
         },
         "key": "STATE_NAME",
         "fields": ["Count of Crash"]
