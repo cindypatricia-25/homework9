@@ -37,7 +37,7 @@
           "field": "Count of Crash",
           "type": "quantitative",
           "scale": {
-            "scheme": "blues"
+            "scheme": "goldorange"
           },
           "legend": {
             "title": "Crash Count"
@@ -52,7 +52,7 @@
           {
             "field": "Count of Crash",
             "type": "quantitative",
-            "title": "Crash Count"
+            "title": "Crash Count normalized by population"
           }
         ]
       }
