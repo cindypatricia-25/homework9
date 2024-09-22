@@ -15,7 +15,7 @@
       "lookup": "properties.STATE_NAME",
       "from": {
         "data": {
-          "url": "count by states.csv"
+          "url": "data\\count by states.csv"
         },
         "key": "STATE_NAME",
         "fields": ["Count of Crash"]
